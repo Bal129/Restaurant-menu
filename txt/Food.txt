@@ -1,0 +1,9 @@
+B01,BeefBurger,8.50
+B02,ChickenBurger,8.00
+B03,FishBurger,7.00
+B04,LambBurger,12.00
+B05,PrawnBurger,7.00
+T01,Taco,5.00
+F01,Fries,3.50
+F02,CurlyFries,4.50
+C01,Coney,6.00

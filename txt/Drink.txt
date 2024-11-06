@@ -1,0 +1,6 @@
+D00,Water,0.20,true
+D01,Soda,2.00,false
+D02,Honey Lemon,3.50,false
+D03,Coke,2.00,false
+D05,Chocolate,3.00,false
+D06,Sprite,3.00,true
