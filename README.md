@@ -1,6 +1,6 @@
 # Restaurant Menu System
 
-A simulation system developed using Java for an assignment. This project was created by me to learn Java.
+A simulation system developed using Java Swing for an assignment. This project was created by me to learn Java.
 
 ## Features
 
